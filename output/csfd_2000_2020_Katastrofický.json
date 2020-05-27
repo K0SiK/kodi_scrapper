@@ -1,0 +1,590 @@
+[
+    {
+        "name": "Epicentrum",
+        "url": "/film/39331-epicentrum/",
+        "year": 2000,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Dobrodružný ",
+            " Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Peklo ve městě",
+        "url": "/film/9942-peklo-ve-meste/",
+        "year": 2001,
+        "origin": "USA",
+        "genres": [
+            "Drama ",
+            " Akční ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Vajont - šílenství mužů",
+        "url": "/film/32299-vajont-silenstvi-muzu/",
+        "year": 2001,
+        "origin": "Itálie / Francie",
+        "genres": [
+            "Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Jádro",
+        "url": "/film/142-jadro/",
+        "year": 2003,
+        "origin": "Velká Británie / USA",
+        "genres": [
+            "Sci-Fi ",
+            " Akční ",
+            " Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Den poté",
+        "url": "/film/107279-den-pote/",
+        "year": 2004,
+        "origin": "USA",
+        "genres": [
+            "Katastrofický ",
+            " Drama ",
+            " Sci-Fi ",
+            " Thriller"
+        ]
+    },
+    {
+        "name": "Nebezpečná sopka",
+        "url": "/film/133700-nebezpecna-sopka/",
+        "year": 2005,
+        "origin": "Bulharsko / Kanada / Velká Británie",
+        "genres": [
+            "Thriller ",
+            " Akční ",
+            " Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Město v ohrožení",
+        "url": "/film/154785-mesto-v-ohrozeni/",
+        "year": 2005,
+        "origin": "Kanada / Litva / Velká Británie",
+        "genres": [
+            "Akční ",
+            " Dobrodružný ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Poseidon",
+        "url": "/film/208034-poseidon/",
+        "year": 2006,
+        "origin": "USA",
+        "genres": [
+            "Katastrofický ",
+            " Drama ",
+            " Dobrodružný"
+        ]
+    },
+    {
+        "name": "Mrak",
+        "url": "/film/226754-mrak/",
+        "year": 2006,
+        "origin": "Německo",
+        "genres": [
+            "Drama ",
+            " Thriller ",
+            " Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Mraky nad L.A.",
+        "url": "/film/228280-mraky-nad-l-a/",
+        "year": 2006,
+        "origin": "USA",
+        "genres": [
+            "Thriller ",
+            " Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Nihon činbocu",
+        "url": "/film/228493-nihon-cinbocu/",
+        "year": 2006,
+        "origin": "Japonsko",
+        "genres": [
+            "Dobrodružný ",
+            " Drama ",
+            " Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Úder na planetu Zemi",
+        "url": "/film/287301-uder-na-planetu-zemi/",
+        "year": 2007,
+        "origin": "USA / Německo",
+        "genres": [
+            "Dokumentární ",
+            " Akční ",
+            " Dobrodružný ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Apokalypsa",
+        "url": "/film/237857-apokalypsa/",
+        "year": 2007,
+        "origin": "USA",
+        "genres": [
+            "Drama ",
+            " Dobrodružný ",
+            " Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Den, kdy se zastavila Země",
+        "url": "/film/209089-den-kdy-se-zastavila-zeme/",
+        "year": 2008,
+        "origin": "USA / Kanada",
+        "genres": [
+            "Sci-Fi ",
+            " Drama ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Konec světa",
+        "url": "/film/263754-konec-sveta/",
+        "year": 2008,
+        "origin": "USA",
+        "genres": [
+            "Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Svět v ohrožení",
+        "url": "/film/275741-svet-v-ohrozeni/",
+        "year": 2008,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "2012",
+        "url": "/film/239242-2012/",
+        "year": 2009,
+        "origin": "USA",
+        "genres": [
+            "Katastrofický ",
+            " Akční ",
+            " Dobrodružný ",
+            " Thriller"
+        ]
+    },
+    {
+        "name": "Tsunami",
+        "url": "/film/238424-tsunami/",
+        "year": 2009,
+        "origin": "Jižní Korea",
+        "genres": [
+            "Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Zúčtování: Armagedon",
+        "url": "/film/268890-zuctovani-armagedon/",
+        "year": 2009,
+        "origin": "USA",
+        "genres": [
+            "Thriller ",
+            " Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "2022 Suenami Wanhloksanghaan",
+        "url": "/film/268271-2022-suenami-wanhloksanghaan/",
+        "year": 2009,
+        "origin": "Thajsko",
+        "genres": [
+            "Drama ",
+            " Katastrofický ",
+            " Akční"
+        ]
+    },
+    {
+        "name": "Titanic II",
+        "url": "/film/279546-titanic-ii/",
+        "year": 2010,
+        "origin": "USA",
+        "genres": [
+            "Dobrodružný ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Australská apokalypsa",
+        "url": "/film/283087-australska-apokalypsa/",
+        "year": 2010,
+        "origin": "Austrálie / Kanada",
+        "genres": [
+            "Sci-Fi ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Apokalypsa meteorů",
+        "url": "/film/289365-apokalypsa-meteoru/",
+        "year": 2010,
+        "origin": "USA",
+        "genres": [
+            "Dobrodružný ",
+            " Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "4:44 The Last Day on Earth",
+        "url": "/film/301720-4-44-the-last-day-on-earth/",
+        "year": 2011,
+        "origin": "USA / Francie / Švýcarsko",
+        "genres": [
+            "Drama ",
+            " Fantasy ",
+            " Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Nic nás nerozdělí",
+        "url": "/film/285419-nic-nas-nerozdeli/",
+        "year": 2012,
+        "origin": "Španělsko",
+        "genres": [
+            "Katastrofický ",
+            " Drama ",
+            " Thriller ",
+            " Akční"
+        ]
+    },
+    {
+        "name": "Věž smrti",
+        "url": "/film/330550-vez-smrti/",
+        "year": 2012,
+        "origin": "Jižní Korea",
+        "genres": [
+            "Katastrofický ",
+            " Thriller"
+        ]
+    },
+    {
+        "name": "40 dnů a nocí",
+        "url": "/film/328176-40-dnu-a-noci/",
+        "year": 2012,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Enter the Metro",
+        "url": "/film/320987-enter-the-metro/",
+        "year": 2012,
+        "origin": "Ukrajina",
+        "genres": [
+            "Krátkometrážní ",
+            " Katastrofický ",
+            " Thriller ",
+            " Horor"
+        ]
+    },
+    {
+        "name": "Metro",
+        "url": "/film/307417-metro/",
+        "year": 2013,
+        "origin": "Rusko",
+        "genres": [
+            "Katastrofický ",
+            " Thriller"
+        ]
+    },
+    {
+        "name": "Den nezávislosti: Invaze",
+        "url": "/film/345930-den-nezavislosti-invaze/",
+        "year": 2013,
+        "origin": "Kanada",
+        "genres": [
+            "Sci-Fi ",
+            " Akční ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Hurikán smrti",
+        "url": "/film/331378-hurikan-smrti/",
+        "year": 2013,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Alone",
+        "url": "/film/427450-alone/",
+        "year": 2013,
+        "origin": "USA",
+        "genres": [
+            "Krátkometrážní ",
+            " Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Sleep Walk",
+        "url": "/film/350194-sleep-walk/",
+        "year": 2013,
+        "origin": "USA",
+        "genres": [
+            "Krátkometrážní ",
+            " Animovaný ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Pompeje",
+        "url": "/film/336324-pompeje/",
+        "year": 2014,
+        "origin": "Kanada / Německo / USA",
+        "genres": [
+            "Katastrofický ",
+            " Historický ",
+            " Dobrodružný ",
+            " Akční ",
+            " Romantický ",
+            " Drama"
+        ]
+    },
+    {
+        "name": "V oku tornáda",
+        "url": "/film/330723-v-oku-tornada/",
+        "year": 2014,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Armagedon v Los Angeles",
+        "url": "/film/375417-armagedon-v-los-angeles/",
+        "year": 2014,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Katastrofický ",
+            " Drama ",
+            " Dobrodružný"
+        ]
+    },
+    {
+        "name": "Apokalypsa v Los Angeles",
+        "url": "/film/377093-apokalypsa-v-los-angeles/",
+        "year": 2014,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Sci-Fi ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "San Andreas",
+        "url": "/film/319379-san-andreas/",
+        "year": 2015,
+        "origin": "USA",
+        "genres": [
+            "Katastrofický ",
+            " Dobrodružný ",
+            " Akční ",
+            " Thriller ",
+            " Drama"
+        ]
+    },
+    {
+        "name": "33 životů",
+        "url": "/film/336752-33-zivotu/",
+        "year": 2015,
+        "origin": "USA / Chile",
+        "genres": [
+            "Katastrofický ",
+            " Životopisný ",
+            " Historický ",
+            " Drama"
+        ]
+    },
+    {
+        "name": "Vlna",
+        "url": "/film/374218-vlna/",
+        "year": 2015,
+        "origin": "Norsko",
+        "genres": [
+            "Akční ",
+            " Drama ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "San Andreas",
+        "url": "/film/20643-san-andreas/",
+        "year": 2015,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Deepwater Horizon: Moře v plamenech",
+        "url": "/film/397118-deepwater-horizon-more-v-plamenech/",
+        "year": 2016,
+        "origin": "Hongkong / USA",
+        "genres": [
+            "Akční ",
+            " Drama ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Pandora",
+        "url": "/film/397464-pandora/",
+        "year": 2016,
+        "origin": "Jižní Korea",
+        "genres": [
+            "Katastrofický ",
+            " Drama"
+        ]
+    },
+    {
+        "name": "Ledokol",
+        "url": "/film/421512-ledokol/",
+        "year": 2016,
+        "origin": "Rusko",
+        "genres": [
+            "Drama ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Geostorm: Globální nebezpečí",
+        "url": "/film/373849-geostorm-globalni-nebezpeci/",
+        "year": 2017,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Sci-Fi ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "V oku hurikánu",
+        "url": "/film/583650-v-oku-hurikanu/",
+        "year": 2018,
+        "origin": "USA",
+        "genres": [
+            "Katastrofický ",
+            " Dobrodružný ",
+            " Akční ",
+            " Krimi ",
+            " Thriller"
+        ]
+    },
+    {
+        "name": "Zemětřesení",
+        "url": "/film/646738-zemetreseni/",
+        "year": 2018,
+        "origin": "Norsko",
+        "genres": [
+            "Akční ",
+            " Drama ",
+            " Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Den blomstertid nu kommer",
+        "url": "/film/600919-den-blomstertid-nu-kommer/",
+        "year": 2018,
+        "origin": "Švédsko",
+        "genres": [
+            "Thriller ",
+            " Akční ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Řezná hlava",
+        "url": "/film/672945-rezna-hlava/",
+        "year": 2018,
+        "origin": "Dánsko",
+        "genres": [
+            "Thriller ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Smrtící erupce",
+        "url": "/film/578029-smrtici-erupce/",
+        "year": 2018,
+        "origin": "USA",
+        "genres": [
+            "Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "The Wandering Earth",
+        "url": "/film/687676-the-wandering-earth/",
+        "year": 2019,
+        "origin": "Čína",
+        "genres": [
+            "Sci-Fi ",
+            " Katastrofický"
+        ]
+    },
+    {
+        "name": "Baekdusan",
+        "url": "/film/771105-baekdusan/",
+        "year": 2019,
+        "origin": "Jižní Korea",
+        "genres": [
+            "Akční ",
+            " Thriller ",
+            " Dobrodružný ",
+            " Katastrofický"
+        ]
+    }
+]

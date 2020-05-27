@@ -1,0 +1,296 @@
+[
+    {
+        "name": "CyberWorld",
+        "url": "/film/16093-cyberworld/",
+        "year": 2000,
+        "origin": "USA",
+        "genres": [
+            "IMAX ",
+            " Animovaný ",
+            " Krátkometrážní"
+        ]
+    },
+    {
+        "name": "Solarmax",
+        "url": "/film/158697-solarmax/",
+        "year": 2000,
+        "origin": "Austrálie",
+        "genres": [
+            "IMAX ",
+            " Dokumentární ",
+            " Krátkometrážní"
+        ]
+    },
+    {
+        "name": "Oázy Oceánu",
+        "url": "/film/228037-oazy-oceanu/",
+        "year": 2000,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Dolphins",
+        "url": "/film/30931-dolphins/",
+        "year": 2000,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " Krátkometrážní ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Vznik života v oceánech",
+        "url": "/film/188546-vznik-zivota-v-oceanech/",
+        "year": 2001,
+        "origin": "Francie",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Shackleton's Antarctic Adventure",
+        "url": "/film/45688-shackleton-s-antarctic-adventure/",
+        "year": 2001,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " Krátkometrážní ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Nádherný sever",
+        "url": "/film/221389-nadherny-sever/",
+        "year": 2001,
+        "origin": "Kanada",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Space Station 3D",
+        "url": "/film/30973-space-station-3d/",
+        "year": 2002,
+        "origin": "Kanada / USA",
+        "genres": [
+            "Dokumentární ",
+            " Dobrodružný ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Kilimanjaro: To the Roof of Africa",
+        "url": "/film/104850-kilimanjaro-to-the-roof-of-africa/",
+        "year": 2002,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Spy Kids 3-D: Game Over",
+        "url": "/film/116945-spy-kids-3-d-game-over/",
+        "year": 2003,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Rodinný ",
+            " Dobrodružný ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Tajemství Titaniku 3D",
+        "url": "/film/42930-tajemstvi-titaniku-3d/",
+        "year": 2003,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " Dobrodružný ",
+            " Rodinný ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Perla oceánu 3D",
+        "url": "/film/178900-perla-oceanu-3d/",
+        "year": 2003,
+        "origin": "Francie",
+        "genres": [
+            "Krátkometrážní ",
+            " Dokumentární ",
+            " Rodinný ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Žraloci 3D",
+        "url": "/film/221449-zraloci-3d/",
+        "year": 2004,
+        "origin": "Francie / Velká Británie",
+        "genres": [
+            "Dokumentární ",
+            " Krátkometrážní ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Nascar 3D",
+        "url": "/film/117225-nascar-3d/",
+        "year": 2004,
+        "origin": "USA / Kanada",
+        "genres": [
+            "Dokumentární ",
+            " Krátkometrážní ",
+            " Sportovní ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Fighter Pilot: Operation Red Flag",
+        "url": "/film/116735-fighter-pilot-operation-red-flag/",
+        "year": 2004,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " Krátkometrážní ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Život v moři",
+        "url": "/film/221945-zivot-v-mori/",
+        "year": 2006,
+        "origin": "Kanada / USA",
+        "genres": [
+            "Dokumentární ",
+            " Dobrodružný ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Mumie: Tajemství faraonů 3D",
+        "url": "/film/242827-mumie-tajemstvi-faraonu-3d/",
+        "year": 2007,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " Drama ",
+            " Historický ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Cesta do středu Země",
+        "url": "/film/237681-cesta-do-stredu-zeme/",
+        "year": 2008,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Dobrodružný ",
+            " Rodinný ",
+            " Fantasy ",
+            " Sci-Fi ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Delfíni a velryby 3D: tuláci oceánů",
+        "url": "/film/230838-delfini-a-velryby-3d-tulaci-oceanu/",
+        "year": 2008,
+        "origin": "Velká Británie / USA",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Divoký oceán 3D",
+        "url": "/film/252846-divoky-ocean-3d/",
+        "year": 2008,
+        "origin": "USA",
+        "genres": [
+            "IMAX ",
+            " Dokumentární"
+        ]
+    },
+    {
+        "name": "Podmořský svět 3D",
+        "url": "/film/255528-podmorsky-svet-3d/",
+        "year": 2009,
+        "origin": "USA / Kanada",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Hubble 3D: Kosmický dalekohled",
+        "url": "/film/268965-hubble-3d-kosmicky-dalekohled/",
+        "year": 2010,
+        "origin": "Kanada",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "SeaRex 3D: Výprava do časů dinosaurů",
+        "url": "/film/277510-searex-3d-vyprava-do-casu-dinosauru/",
+        "year": 2010,
+        "origin": "Velká Británie / Francie",
+        "genres": [
+            "IMAX ",
+            " Dokumentární"
+        ]
+    },
+    {
+        "name": "Arktida 3D",
+        "url": "/film/313866-arktida-3d/",
+        "year": 2012,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "Cesta do vesmíru",
+        "url": "/film/78523-cesta-do-vesmiru/",
+        "year": 2015,
+        "origin": "USA",
+        "genres": [
+            "Dokumentární ",
+            " IMAX"
+        ]
+    },
+    {
+        "name": "The Search for Life in Space",
+        "url": "/film/474275-the-search-for-life-in-space/",
+        "year": 2016,
+        "origin": "USA",
+        "genres": [
+            "IMAX ",
+            " Dokumentární ",
+            " Krátkometrážní"
+        ]
+    },
+    {
+        "name": "Inhumans (IMAX)",
+        "url": "/film/535220-inhumans-imax/",
+        "year": 2017,
+        "origin": "USA",
+        "genres": [
+            "Akční ",
+            " Sci-Fi ",
+            " IMAX"
+        ]
+    }
+]
